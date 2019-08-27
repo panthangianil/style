@@ -4,5 +4,5 @@
 font-family: 'Proxima Nova Alt rg';
 font-style: normal;
 font-weight: normal;
-src: local('Proxima Nova Alt rg'), url('FontsFree-Net-ProximaNovaAltRegular.ttf') format('truetype');
+src: local('Proxima Nova Alt rg'), url('FontsFree-Net-ProximaNovaAltRegular.woff') format('woff');
 }
